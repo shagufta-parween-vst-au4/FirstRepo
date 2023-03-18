@@ -1,1 +1,2 @@
-This is my first master file for GIT training
+This is my first master file for GIT training. 
+Making some more chnabges
